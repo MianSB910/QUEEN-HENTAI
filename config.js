@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['94740804536', 'Dinuwa Official²⁰²³', true],
-  ['94740804536', 'Dinuwa Official²⁰²³', true], 
+  ['94740804536', 'Sohail Official²⁰²³', true],
+  ['94740804536', 'Sohail Official²⁰²³', true], 
   [''] 
 ] //Number of owners
 
@@ -47,20 +47,20 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '💝 Queen Hentai 💝'
+global.botname = '☠️ MianHacker ☠️'
 global.premium = 'true'
-global.packname = '💝 Queen Hentai 💝 Created By 💝 Dinuwa Official²⁰²³ 💝' 
-global.author = '💝 Dinuwa Official²⁰²³ 💝' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/Dinuwa Official²⁰²³\n' 
-global.dygp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
+global.packname = '🔥 MianHacker 🔥 Created By 💝 Sohail Official²⁰²³ 💝' 
+global.author = '💝 Sohail Official²⁰²³ 💝' 
+global.igfg = '▢ Follow on Instagram\nhttps://instagram.com/mian_write04?igshid=MzMyNGUyNmU2YQ==\n' 
+global.dygp = 'https://whatsapp.com/channel/0029Va7xrjFCsU9VrS34bV1r'
 global.fgsc = 'https://github.com/dinuwah/QUEEN-HENTAI' 
-global.fgyt = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fgpyp = 'https://chat.whatsapp.com/Jyjqx7KBfgjDC7QcefHB1S'
-global.fglog = 'https://i.ibb.co/T1DqdYz/thumbnail.jpg' 
+global.fgyt = 'https://chat.whatsapp.com/JR8DutcJ9Jj3ksGZDxuSSD'
+global.fgpyp = 'https://chat.whatsapp.com/DDQjAxYq4vS4KQ4uQVQcTA'
+global.fglog = 'https://www.tiktok.com/@miansohail_84?_t=8gpfFhYZipF&_r=1' 
 
 
-global.wait = '*💝 _Waiting Bro Uploading by 💝 Queen Hentai 💝..._*'
-global.rwait = '🇱🇰'
+global.wait = '*💝 _Waiting Bro Uploading by ✌️ MianHacker84 ✌️..._*'
+global.rwait = '🇵🇰'
 global.dmoji = '🤣'
 global.done = '👍'
 global.error = '👎' 
